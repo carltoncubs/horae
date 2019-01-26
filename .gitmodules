@@ -1,0 +1,6 @@
+[submodule "pax"]
+	path = pax
+	url = git@github.com:carltoncubs/pax.git
+[submodule "flora"]
+	path = flora
+	url = git@github.com:carltoncubs/flora.git
