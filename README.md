@@ -2,6 +2,8 @@
 
 Master repo for the cub attendance web application. It contains the various components and the master configuration files.
 
+The project names are names of some of the [Horae](https://en.wikipedia.org/wiki/Horae) from Greek/Roman mythology.
+
 Submodules in this repository are:
 
 - Flora (REST API)
@@ -10,4 +12,5 @@ Submodules in this repository are:
 - Carpo (Task queue)
 - Eunomia (Reverse proxy)
 
-The project names are names of some of the [Horae](https://en.wikipedia.org/wiki/Horae) from Greek/Roman mythology.
+![Horae Domain Diagram](/horae-domain-diagram.png?raw=true)
+
